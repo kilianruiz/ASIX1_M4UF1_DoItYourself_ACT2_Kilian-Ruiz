@@ -23,7 +23,7 @@ h1{
     border: 1px solid white;
     padding: 3%;
 }
-.Rojo{  /*A la clase Rojo le asignamos color rojo*/
+.rojo{  /*A la clase Rojo le asignamos color rojo*/
     color:red;
 }
 .titulos{  /*A la clase titulos, le asignamos font-size de 30px*/
