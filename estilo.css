@@ -1,0 +1,31 @@
+body{
+    background-image: url('./img/fondo.jpg'); /*En el body, Hay que cambiar la imagen de fondo de la pagina web con la etiqueta: background-image: url(''), dentro de url decimos la ruta de la imagen llamada fondo.jpg*/
+    color: white;  /*Asignamos el color white y padding 10% derecha y izquierda*/
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Press Start 2P'; /*Asignamos la fuente Press start 2p con la etiqueta font-family*/
+}
+h1{
+    text-align: center; /*A los encabezados h1, Alineamos el texto al centro con text-align*/
+}
+.trailer{
+    text-align: center;  /*A la clase trailer, hay que Alinear el texto al centro con text-align*/
+}
+#iframe{   /*Tenemos que editar la etiqueta iframe con width 100% y height 500px*/
+    width: 100%;
+    height: 500px;
+}
+.links{  /*A la clase links, le ponemos text-decoration: none y color white*/
+    text-decoration: none;
+    color: white;
+}
+.bordes{  /*A la clase bordes le ponemos border: 1px solid white y padding de 3%*/
+    border: 1px solid white;
+    padding: 3%;
+}
+.Rojo{  /*A la clase Rojo le asignamos color rojo*/
+    color:red;
+}
+.titulos{  /*A la clase titulos, le asignamos font-size de 30px*/
+    font-size: 30px;
+}
